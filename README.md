@@ -38,6 +38,7 @@ The training and evaluation process is implemented within a single, interactive 
 <pre>
 ├── LICENSE
 ├── README.md
+├── NOTICE
 └── arabic-dates-classification-resnet50.ipynb
 </pre>
 
